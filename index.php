@@ -1,3 +1,3 @@
 <?php
-echo "hello word";//��Һã�
+echo "hello word";//这个中文能显示吗
 ?>
